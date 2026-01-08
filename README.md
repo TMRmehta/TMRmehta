@@ -20,7 +20,9 @@
 
 - 💬 Ask me about **Explainability, LLMs and Robotics**
 
-- 📫 Get in touch 
+- 📫 Get in touch **[aria-label="LinkedIn" target="_blank" rel="noopener noreferrer" style="color:var(--ink);text-decoration:none;font-size:1.15rem;line-height:1;"](https://www.linkedin.com/in/tushar-mehta-104a21375/)
+      <i class="fab fa-linkedin-in"></i>
+      <i class="fab fa-linkedin-in"></i>
 
 - ⚡ Fun fact - **Python is my favorite programming language!**
 
