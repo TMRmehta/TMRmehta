@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there, I'm तुषार महता (Devanagari script) </h1>
+<h1 align="center">I'm तुषार महता (Devanagari script) </h1>
 
 
 <h3 align="left">Languages and Tools</h3>
