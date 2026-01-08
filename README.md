@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Explainability, LLMs and Robotics**
 
-- 📫 Get in touch **[(LinkedIn)](https://www.tusharmehta.me/)**
+- 📫 Get in touch 
 
 - ⚡ Fun fact - **Python is my favorite programming language!**
 
@@ -30,23 +30,9 @@
  Python      Pro  
  SQL         Intermediate 
  HTML        Intermediate  
- Java        Beginner   
- Ruby        Beginner  
+ Java        Beginner     
  R           Beginner
  MATLAB	     Intermediate	
   
-</pre>  
-___
 
-<h3 align="left">Connect with Me</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/atharvataras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvataras" height="30" width="40" /></a>
-<a href="https://twitter.com/hotfrost_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hotfrost_" height="30" width="40" /></a>
-<a href="https://kaggle.com/atharvataras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atharvataras" height="30" width="40" /></a>
-<a href="https://fb.com/atharva taras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atharva taras" height="30" width="40" /></a>
-<a href="https://instagram.com/hotfrost_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hotfrost_" height="30" width="40" /></a>
-<a href="https://www.behance.net/hotfrost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hotfrost" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc3mmrse2dzsiykws9yoipdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc3mmrse2dzsiykws9yoipdg" height="30" width="40" /></a>
-</p>
 
