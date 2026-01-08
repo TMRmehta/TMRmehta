@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science/ML and IoT projects**
 
-- 🎨 I’m excited to be part of **[(Congressional App Challenge Debugged Podcast)](https://www.linkedin.com/company/congressional-app-challenge-debugged-podcast/)**
+- 🎨 I’m excited to be part of **[Congressional App Challenge Debugged Podcast)](https://www.linkedin.com/company/congressional-app-challenge-debugged-podcast/**
 
 - 💬 Ask me about **Explainability, LLMs and Robotics**
 
